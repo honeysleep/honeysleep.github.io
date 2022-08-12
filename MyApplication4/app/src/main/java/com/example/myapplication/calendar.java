@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         calendarView = findViewById(R.id.calendarView2);
 
         //날짜변환
-        DateFormat formatter = new SimpleDateFormat("yyyy년MM월dd일");
+        DateFormat formatter = new SimpleDateFormat("yyyy년 MM월 dd일");
         Date date = new Date(calendarView.getDate());
         today.setText(formatter.format(date));
 
