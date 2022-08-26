@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.499" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/custom_ic_background.xml" value="0.1555" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.499" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.499" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.499" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.499" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/seekbar_gradient_drawable.xml" value="0.1555" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/style_seekbar.xml" value="0.1555" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/style_thumb.xml" value="0.1555" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_daytime_sleepiness.xml" value="0.75" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_diary1.xml" value="0.25" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_diary2.xml" value="0.75" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_sleep_dairy_result.xml" value="0.33" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/diary1.xml" value="0.415234375" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/fragment_home.xml" value="0.4234375" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/fragment_notifications.xml" value="0.4234375" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/row_spinner.xml" value="0.1522289766970618" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/spiner_item.xml" value="0.1522289766970618" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/menu/bottom_nav_menu.xml" value="0.5" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/mipmap-anydpi-v26/custom_ic.xml" value="0.1555" />
+        <entry key="..\:/Users/SleepForestPC1/AndroidStudioProjects/MyApplication4/app/src/main/res/mipmap-anydpi-v26/custom_ic_round.xml" value="0.1815" />
+        <entry key="..\:/Users/SleepForestPC1/co-dev/MyApplication4/MyApplication4/app/src/main/res/drawable/style_seekbar.xml" value="0.251" />
+        <entry key="..\:/Users/SleepForestPC1/co-dev/MyApplication4/MyApplication4/app/src/main/res/drawable/style_thumb.xml" value="0.251" />
+        <entry key="..\:/Users/SleepForestPC1/co-dev/MyApplication4/MyApplication4/app/src/main/res/layout/activity_daytime_sleepiness.xml" value="0.36820652173913043" />
+        <entry key="..\:/Users/SleepForestPC1/co-dev/MyApplication4/MyApplication4/app/src/main/res/layout/activity_sleep_record.xml" value="0.75" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
