@@ -107,6 +107,8 @@ obj/
 *.iws
 /out/
 
+./MyApplication4/.idea/misc.xml
+
 # User-specific configurations
 .idea/caches/
 .idea/libraries/
