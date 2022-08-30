@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/931.8f9e89c7.chunk.js","mappings":"iIAMA,UAJiB,WACf,OAAO,2DACR,C","sources":["components/Software.js"],"sourcesContent":["import React from \"react\";\n\nconst Software = () => {\n  return <div>소프트웨어</div>;\n};\n\nexport default Software;\n"],"names":[],"sourceRoot":""}
